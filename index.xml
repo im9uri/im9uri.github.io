@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gyuri Im</title>
-    <link>https://im9uri.github.io/</link>
+    <link>www.imgyuri.com/</link>
     <description>Recent content on Gyuri Im</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 19 May 2017 13:37:25 +0900</lastBuildDate>
     
-	<atom:link href="https://im9uri.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.imgyuri.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://im9uri.github.io/blog/hello-world/</link>
+      <link>www.imgyuri.com/blog/hello-world/</link>
       <pubDate>Fri, 19 May 2017 13:37:25 +0900</pubDate>
       
-      <guid>https://im9uri.github.io/blog/hello-world/</guid>
+      <guid>www.imgyuri.com/blog/hello-world/</guid>
       <description>Hello everyone!
 Thanks for stopping by.</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://im9uri.github.io/about/</link>
+      <link>www.imgyuri.com/about/</link>
       <pubDate>Fri, 19 May 2017 12:52:08 +0900</pubDate>
       
-      <guid>https://im9uri.github.io/about/</guid>
+      <guid>www.imgyuri.com/about/</guid>
       <description>My name is Gyuri. This is my blog where I write about technology, among other things.
 I worked in several startups, some of which have been acquired or IPO&amp;rsquo;ed.
 I created and maintain a photo app, which you can checkout if you have an iPhone.
@@ -37,10 +37,10 @@ About the blog The site is built with Hugo—a static site generator made with G
     
     <item>
       <title>colophon</title>
-      <link>https://im9uri.github.io/colophon/</link>
+      <link>www.imgyuri.com/colophon/</link>
       <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
       
-      <guid>https://im9uri.github.io/colophon/</guid>
+      <guid>www.imgyuri.com/colophon/</guid>
       <description>This website is a personal homepage.
 The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
 The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
@@ -48,37 +48,37 @@ The primary font face is Open Sans and the monospace font face is Ubuntu Mono. T
     
     <item>
       <title>Code</title>
-      <link>https://im9uri.github.io/code/</link>
+      <link>www.imgyuri.com/code/</link>
       <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
       
-      <guid>https://im9uri.github.io/code/</guid>
+      <guid>www.imgyuri.com/code/</guid>
       <description>The Hitchhiker&amp;rsquo;s Guide to the Galaxy is a comedy science fiction series created by Douglas Adams. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a &amp;ldquo;trilogy&amp;rdquo; of five books published between 1979 and 1992, a sixth novel penned by Eoin Colfer in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://im9uri.github.io/about-this-site/</link>
+      <link>www.imgyuri.com/about-this-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://im9uri.github.io/about-this-site/</guid>
+      <guid>www.imgyuri.com/about-this-site/</guid>
       <description>    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://im9uri.github.io/posts/</link>
+      <link>www.imgyuri.com/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://im9uri.github.io/posts/</guid>
+      <guid>www.imgyuri.com/posts/</guid>
       <description>    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://im9uri.github.io/writing/</link>
+      <link>www.imgyuri.com/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://im9uri.github.io/writing/</guid>
+      <guid>www.imgyuri.com/writing/</guid>
       <description>    </description>
     </item>
     
