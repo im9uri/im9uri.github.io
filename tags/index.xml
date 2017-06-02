@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gyuri Im</title>
-    <link>https://imgyuri.com/tags/</link>
+    <link>https://im9uri.github.io/tags/</link>
     <description>Recent content in Tags on Gyuri Im</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://imgyuri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://im9uri.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
