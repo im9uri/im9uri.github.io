@@ -19,10 +19,11 @@
       <guid>https://www.imgyuri.com/about/</guid>
       <description>My name is Gyuri. This is my blog where I write about technology, among other things.
 I worked in several startups, some of which have been acquired or IPO&amp;rsquo;ed.
-I created and maintain a photo app, which you can checkout if you have an iPhone.
+I created a photo app, which you can checkout if you have an iPhone.
+Currently I am a cofounder of MARS, developing self-driving technology.
 I studied Computer Science at KAIST.
-You can contact me at gyuri at deepfilter.com
-About the blog The site is built with Hugo—a static site generator made with Go.</description>
+You can contact me at gyuri at marsauto.io
+Open Source europilot: A toolkit for controlling Euro Truck Simulator 2 with python to develop self-driving algorithms.</description>
     </item>
     
   </channel>
